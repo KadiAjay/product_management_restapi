@@ -8,3 +8,4 @@ class ProductModel(Base):
     name = Column(String)
     description = Column(String)
     price = Column(Float)
+    #this file is for createing table
